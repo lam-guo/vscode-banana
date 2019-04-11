@@ -2,7 +2,7 @@
     "name": "banana",
     "displayName": "香蕉君鼓励师",
     "description": "写代码不再孤单，有香蕉君与你同在",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "lamguo",
     "icon": "logo.jpg",
     "engines": {
