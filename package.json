@@ -17,13 +17,13 @@
         "鼓励"
     ],
     "bugs": {
-        "url": "https://github.com/formulahendry/vscode-banana/issues",
-        "email": "formulahendry@gmail.com"
+        "url": "https://github.com/lam-guo/vscode-banana/issues",
+        "email": "ab824430898@gmail.com"
     },
-    "homepage": "https://github.com/formulahendry/vscode-banana/blob/master/README.md",
+    "homepage": "https://github.com/lam-guo/vscode-banana/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/formulahendry/vscode-banana.git"
+        "url": "https://github.com/lam-guo/vscode-banana.git"
     },
     "activationEvents": [
         "onCommand:banana.showReminderView",
